@@ -42,7 +42,22 @@
                     </div>
                 </div>
              
-               
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/yeriko.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Yuriko Travels Agengy Website</h4>
+                        <p class="text-muted">Website Design</p>
+                        <button><h4><a href="http://yurikotravels.netau.net/"> <b>Visit this site </b></a></h4> </button>
+
+                    </div>
+                </div>
 
 
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -61,7 +76,21 @@
                 </div>
                 </div>
 
-                 
+                 <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal14" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/14.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Sahayog NGO</h4>
+                        <p class="text-muted">Website Design</p>
+                        <button><h4><a href="http://sahayog.comlu.com/"> <b>Visit this site </b></a></h4> </button>
+                </div>
+                </div>
 
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
@@ -96,7 +125,21 @@
 
 
 
+<div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
 
+                        <img src="img/portfolio/touch.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Symbole Design For Beauty Parlor</h4>
+                        <p class="text-muted">Graphic Design</p>
+                    </div>
+                </div>
 
    <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
